@@ -1,0 +1,3 @@
+The Most Basic implementation of the Book system, which utilizes a Tab Manager in conjunction with a Horizontal split, buttons, and Rich Text to implement hotlinks, images, gifs, and tabs while remaining hardware efficient. It currently lacks Search, Bookmark, and link drop down functionality. And currently only contains book functionalities.
+
+There are no rules within this version, only documents meant for testing.
